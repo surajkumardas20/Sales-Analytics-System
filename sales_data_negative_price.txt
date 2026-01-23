@@ -1,0 +1,3 @@
+RowNumber|TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region
+19|T076|2024-12-11|P107|USB Cable|5|-459|C025|East
+24|T077|2024-12-13|P109|Wireless Mouse|9|-998|C001|North

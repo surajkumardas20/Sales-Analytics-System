@@ -1,0 +1,3 @@
+RowNumber|TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region
+4|T075|2024-12-10|P106|Headphones|0|2826|C001|South
+59|T074|2024-12-28|P101|Laptop|0|59577|C007|West

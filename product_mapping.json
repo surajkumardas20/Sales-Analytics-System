@@ -1,0 +1,1002 @@
+{
+  "1": {
+    "title": "Essence Mascara Lash Princess",
+    "category": "beauty",
+    "brand": "Essence",
+    "price": 9.99,
+    "rating": 2.56,
+    "stock": 99,
+    "discount": 10.48,
+    "sku": "BEA-ESS-ESS-001"
+  },
+  "2": {
+    "title": "Eyeshadow Palette with Mirror",
+    "category": "beauty",
+    "brand": "Glamour Beauty",
+    "price": 19.99,
+    "rating": 2.86,
+    "stock": 34,
+    "discount": 18.19,
+    "sku": "BEA-GLA-EYE-002"
+  },
+  "3": {
+    "title": "Powder Canister",
+    "category": "beauty",
+    "brand": "Velvet Touch",
+    "price": 14.99,
+    "rating": 4.64,
+    "stock": 89,
+    "discount": 9.84,
+    "sku": "BEA-VEL-POW-003"
+  },
+  "4": {
+    "title": "Red Lipstick",
+    "category": "beauty",
+    "brand": "Chic Cosmetics",
+    "price": 12.99,
+    "rating": 4.36,
+    "stock": 91,
+    "discount": 12.16,
+    "sku": "BEA-CHI-LIP-004"
+  },
+  "5": {
+    "title": "Red Nail Polish",
+    "category": "beauty",
+    "brand": "Nail Couture",
+    "price": 8.99,
+    "rating": 4.32,
+    "stock": 79,
+    "discount": 11.44,
+    "sku": "BEA-NAI-NAI-005"
+  },
+  "6": {
+    "title": "Calvin Klein CK One",
+    "category": "fragrances",
+    "brand": "Calvin Klein",
+    "price": 49.99,
+    "rating": 4.37,
+    "stock": 29,
+    "discount": 1.89,
+    "sku": "FRA-CAL-CAL-006"
+  },
+  "7": {
+    "title": "Chanel Coco Noir Eau De",
+    "category": "fragrances",
+    "brand": "Chanel",
+    "price": 129.99,
+    "rating": 4.26,
+    "stock": 58,
+    "discount": 16.51,
+    "sku": "FRA-CHA-CHA-007"
+  },
+  "8": {
+    "title": "Dior J'adore",
+    "category": "fragrances",
+    "brand": "Dior",
+    "price": 89.99,
+    "rating": 3.8,
+    "stock": 98,
+    "discount": 14.72,
+    "sku": "FRA-DIO-DIO-008"
+  },
+  "9": {
+    "title": "Dolce Shine Eau de",
+    "category": "fragrances",
+    "brand": "Dolce & Gabbana",
+    "price": 69.99,
+    "rating": 3.96,
+    "stock": 4,
+    "discount": 0.62,
+    "sku": "FRA-DOL-DOL-009"
+  },
+  "10": {
+    "title": "Gucci Bloom Eau de",
+    "category": "fragrances",
+    "brand": "Gucci",
+    "price": 79.99,
+    "rating": 2.74,
+    "stock": 91,
+    "discount": 14.39,
+    "sku": "FRA-GUC-GUC-010"
+  },
+  "11": {
+    "title": "Annibale Colombo Bed",
+    "category": "furniture",
+    "brand": "Annibale Colombo",
+    "price": 1899.99,
+    "rating": 4.77,
+    "stock": 88,
+    "discount": 8.57,
+    "sku": "FUR-ANN-ANN-011"
+  },
+  "12": {
+    "title": "Annibale Colombo Sofa",
+    "category": "furniture",
+    "brand": "Annibale Colombo",
+    "price": 2499.99,
+    "rating": 3.92,
+    "stock": 60,
+    "discount": 14.4,
+    "sku": "FUR-ANN-ANN-012"
+  },
+  "13": {
+    "title": "Bedside Table African Cherry",
+    "category": "furniture",
+    "brand": "Furniture Co.",
+    "price": 299.99,
+    "rating": 2.87,
+    "stock": 64,
+    "discount": 19.09,
+    "sku": "FUR-FUR-BED-013"
+  },
+  "14": {
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "category": "furniture",
+    "brand": "Knoll",
+    "price": 499.99,
+    "rating": 4.88,
+    "stock": 26,
+    "discount": 2.01,
+    "sku": "FUR-KNO-KNO-014"
+  },
+  "15": {
+    "title": "Wooden Bathroom Sink With Mirror",
+    "category": "furniture",
+    "brand": "Bath Trends",
+    "price": 799.99,
+    "rating": 3.59,
+    "stock": 7,
+    "discount": 8.8,
+    "sku": "FUR-BAT-WOO-015"
+  },
+  "16": {
+    "title": "Apple",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 1.99,
+    "rating": 4.19,
+    "stock": 8,
+    "discount": 12.62,
+    "sku": "GRO-BRD-APP-016"
+  },
+  "17": {
+    "title": "Beef Steak",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 12.99,
+    "rating": 4.47,
+    "stock": 86,
+    "discount": 9.61,
+    "sku": "GRO-BRD-BEE-017"
+  },
+  "18": {
+    "title": "Cat Food",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 8.99,
+    "rating": 3.13,
+    "stock": 46,
+    "discount": 9.58,
+    "sku": "GRO-BRD-FOO-018"
+  },
+  "19": {
+    "title": "Chicken Meat",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 9.99,
+    "rating": 3.19,
+    "stock": 97,
+    "discount": 13.7,
+    "sku": "GRO-BRD-CHI-019"
+  },
+  "20": {
+    "title": "Cooking Oil",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 4.99,
+    "rating": 4.8,
+    "stock": 10,
+    "discount": 9.33,
+    "sku": "GRO-BRD-COO-020"
+  },
+  "21": {
+    "title": "Cucumber",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 1.49,
+    "rating": 4.07,
+    "stock": 84,
+    "discount": 0.16,
+    "sku": "GRO-BRD-CUC-021"
+  },
+  "22": {
+    "title": "Dog Food",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 10.99,
+    "rating": 4.55,
+    "stock": 71,
+    "discount": 10.27,
+    "sku": "GRO-BRD-FOO-022"
+  },
+  "23": {
+    "title": "Eggs",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 2.99,
+    "rating": 2.53,
+    "stock": 9,
+    "discount": 11.05,
+    "sku": "GRO-BRD-EGG-023"
+  },
+  "24": {
+    "title": "Fish Steak",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 14.99,
+    "rating": 3.78,
+    "stock": 74,
+    "discount": 4.23,
+    "sku": "GRO-BRD-FIS-024"
+  },
+  "25": {
+    "title": "Green Bell Pepper",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 1.29,
+    "rating": 3.25,
+    "stock": 33,
+    "discount": 0.16,
+    "sku": "GRO-BRD-GRE-025"
+  },
+  "26": {
+    "title": "Green Chili Pepper",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 0.99,
+    "rating": 3.66,
+    "stock": 3,
+    "discount": 1,
+    "sku": "GRO-BRD-GRE-026"
+  },
+  "27": {
+    "title": "Honey Jar",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 6.99,
+    "rating": 3.97,
+    "stock": 34,
+    "discount": 14.4,
+    "sku": "GRO-BRD-HON-027"
+  },
+  "28": {
+    "title": "Ice Cream",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 5.49,
+    "rating": 3.39,
+    "stock": 27,
+    "discount": 8.69,
+    "sku": "GRO-BRD-CRE-028"
+  },
+  "29": {
+    "title": "Juice",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 3.99,
+    "rating": 3.94,
+    "stock": 50,
+    "discount": 12.06,
+    "sku": "GRO-BRD-JUI-029"
+  },
+  "30": {
+    "title": "Kiwi",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 2.49,
+    "rating": 4.93,
+    "stock": 99,
+    "discount": 15.22,
+    "sku": "GRO-BRD-KIW-030"
+  },
+  "31": {
+    "title": "Lemon",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 0.79,
+    "rating": 3.53,
+    "stock": 31,
+    "discount": 9.7,
+    "sku": "GRO-BRD-LEM-031"
+  },
+  "32": {
+    "title": "Milk",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 3.49,
+    "rating": 2.61,
+    "stock": 27,
+    "discount": 13.74,
+    "sku": "GRO-BRD-MIL-032"
+  },
+  "33": {
+    "title": "Mulberry",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 4.99,
+    "rating": 4.95,
+    "stock": 99,
+    "discount": 12.87,
+    "sku": "GRO-BRD-MUL-033"
+  },
+  "34": {
+    "title": "Nescafe Coffee",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 7.99,
+    "rating": 4.82,
+    "stock": 57,
+    "discount": 1.59,
+    "sku": "GRO-BRD-NES-034"
+  },
+  "35": {
+    "title": "Potatoes",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 2.29,
+    "rating": 4.81,
+    "stock": 13,
+    "discount": 5.38,
+    "sku": "GRO-BRD-POT-035"
+  },
+  "36": {
+    "title": "Protein Powder",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 19.99,
+    "rating": 4.18,
+    "stock": 80,
+    "discount": 7.59,
+    "sku": "GRO-BRD-PRO-036"
+  },
+  "37": {
+    "title": "Red Onions",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 1.99,
+    "rating": 4.2,
+    "stock": 82,
+    "discount": 9.9,
+    "sku": "GRO-BRD-ONI-037"
+  },
+  "38": {
+    "title": "Rice",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 5.99,
+    "rating": 3.18,
+    "stock": 59,
+    "discount": 9.29,
+    "sku": "GRO-BRD-RIC-038"
+  },
+  "39": {
+    "title": "Soft Drinks",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 1.99,
+    "rating": 4.75,
+    "stock": 53,
+    "discount": 17.48,
+    "sku": "GRO-BRD-SOF-039"
+  },
+  "40": {
+    "title": "Strawberry",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 3.99,
+    "rating": 3.08,
+    "stock": 46,
+    "discount": 1.12,
+    "sku": "GRO-BRD-STR-040"
+  },
+  "41": {
+    "title": "Tissue Paper Box",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 2.49,
+    "rating": 2.69,
+    "stock": 86,
+    "discount": 13.28,
+    "sku": "GRO-BRD-TIS-041"
+  },
+  "42": {
+    "title": "Water",
+    "category": "groceries",
+    "brand": "Unknown",
+    "price": 0.99,
+    "rating": 4.96,
+    "stock": 53,
+    "discount": 14.92,
+    "sku": "GRO-BRD-WAT-042"
+  },
+  "43": {
+    "title": "Decoration Swing",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "price": 59.99,
+    "rating": 3.16,
+    "stock": 47,
+    "discount": 10.41,
+    "sku": "HOM-BRD-DEC-043"
+  },
+  "44": {
+    "title": "Family Tree Photo Frame",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "price": 29.99,
+    "rating": 4.53,
+    "stock": 77,
+    "discount": 14.87,
+    "sku": "HOM-BRD-FAM-044"
+  },
+  "45": {
+    "title": "House Showpiece Plant",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "price": 39.99,
+    "rating": 4.67,
+    "stock": 28,
+    "discount": 7.46,
+    "sku": "HOM-BRD-HOU-045"
+  },
+  "46": {
+    "title": "Plant Pot",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "price": 14.99,
+    "rating": 3.01,
+    "stock": 59,
+    "discount": 6.84,
+    "sku": "HOM-BRD-PLA-046"
+  },
+  "47": {
+    "title": "Table Lamp",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "price": 49.99,
+    "rating": 3.55,
+    "stock": 9,
+    "discount": 7.09,
+    "sku": "HOM-BRD-TAB-047"
+  },
+  "48": {
+    "title": "Bamboo Spatula",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 7.99,
+    "rating": 3.27,
+    "stock": 37,
+    "discount": 2.84,
+    "sku": "KIT-BRD-BAM-048"
+  },
+  "49": {
+    "title": "Black Aluminium Cup",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 5.99,
+    "rating": 4.46,
+    "stock": 75,
+    "discount": 15.65,
+    "sku": "KIT-BRD-BLA-049"
+  },
+  "50": {
+    "title": "Black Whisk",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 9.99,
+    "rating": 3.9,
+    "stock": 73,
+    "discount": 10.24,
+    "sku": "KIT-BRD-BLA-050"
+  },
+  "51": {
+    "title": "Boxed Blender",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 39.99,
+    "rating": 4.56,
+    "stock": 9,
+    "discount": 7.26,
+    "sku": "KIT-BRD-BOX-051"
+  },
+  "52": {
+    "title": "Carbon Steel Wok",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 29.99,
+    "rating": 4.05,
+    "stock": 40,
+    "discount": 6.53,
+    "sku": "KIT-BRD-CAR-052"
+  },
+  "53": {
+    "title": "Chopping Board",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 12.99,
+    "rating": 3.7,
+    "stock": 14,
+    "discount": 8.03,
+    "sku": "KIT-BRD-CHO-053"
+  },
+  "54": {
+    "title": "Citrus Squeezer Yellow",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 8.99,
+    "rating": 4.63,
+    "stock": 22,
+    "discount": 12.1,
+    "sku": "KIT-BRD-CIT-054"
+  },
+  "55": {
+    "title": "Egg Slicer",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 6.99,
+    "rating": 3.09,
+    "stock": 40,
+    "discount": 14.76,
+    "sku": "KIT-BRD-SLI-055"
+  },
+  "56": {
+    "title": "Electric Stove",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 49.99,
+    "rating": 4.11,
+    "stock": 21,
+    "discount": 14.04,
+    "sku": "KIT-BRD-ELE-056"
+  },
+  "57": {
+    "title": "Fine Mesh Strainer",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 9.99,
+    "rating": 3.04,
+    "stock": 85,
+    "discount": 3.5,
+    "sku": "KIT-BRD-FIN-057"
+  },
+  "58": {
+    "title": "Fork",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 3.99,
+    "rating": 3.11,
+    "stock": 7,
+    "discount": 8.07,
+    "sku": "KIT-BRD-FOR-058"
+  },
+  "59": {
+    "title": "Glass",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 4.99,
+    "rating": 4.02,
+    "stock": 46,
+    "discount": 7.92,
+    "sku": "KIT-BRD-GLA-059"
+  },
+  "60": {
+    "title": "Grater Black",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 10.99,
+    "rating": 3.21,
+    "stock": 84,
+    "discount": 3.56,
+    "sku": "KIT-BRD-GRA-060"
+  },
+  "61": {
+    "title": "Hand Blender",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 34.99,
+    "rating": 3.86,
+    "stock": 84,
+    "discount": 17.02,
+    "sku": "KIT-BRD-HAN-061"
+  },
+  "62": {
+    "title": "Ice Cube Tray",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 5.99,
+    "rating": 4.71,
+    "stock": 13,
+    "discount": 0.63,
+    "sku": "KIT-BRD-CUB-062"
+  },
+  "63": {
+    "title": "Kitchen Sieve",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 7.99,
+    "rating": 3.09,
+    "stock": 68,
+    "discount": 18.91,
+    "sku": "KIT-BRD-KIT-063"
+  },
+  "64": {
+    "title": "Knife",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 14.99,
+    "rating": 3.26,
+    "stock": 7,
+    "discount": 18.86,
+    "sku": "KIT-BRD-KNI-064"
+  },
+  "65": {
+    "title": "Lunch Box",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 12.99,
+    "rating": 4.93,
+    "stock": 94,
+    "discount": 10.34,
+    "sku": "KIT-BRD-LUN-065"
+  },
+  "66": {
+    "title": "Microwave Oven",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 89.99,
+    "rating": 4.82,
+    "stock": 59,
+    "discount": 12.13,
+    "sku": "KIT-BRD-MIC-066"
+  },
+  "67": {
+    "title": "Mug Tree Stand",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 15.99,
+    "rating": 2.64,
+    "stock": 88,
+    "discount": 9.25,
+    "sku": "KIT-BRD-TRE-067"
+  },
+  "68": {
+    "title": "Pan",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 24.99,
+    "rating": 2.79,
+    "stock": 90,
+    "discount": 3,
+    "sku": "KIT-BRD-PRD-068"
+  },
+  "69": {
+    "title": "Plate",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 3.99,
+    "rating": 3.65,
+    "stock": 66,
+    "discount": 7.31,
+    "sku": "KIT-BRD-PLA-069"
+  },
+  "70": {
+    "title": "Red Tongs",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 6.99,
+    "rating": 4.42,
+    "stock": 82,
+    "discount": 14.52,
+    "sku": "KIT-BRD-TON-070"
+  },
+  "71": {
+    "title": "Silver Pot With Glass Cap",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 39.99,
+    "rating": 3.22,
+    "stock": 40,
+    "discount": 5.7,
+    "sku": "KIT-BRD-SIL-071"
+  },
+  "72": {
+    "title": "Slotted Turner",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 8.99,
+    "rating": 3.4,
+    "stock": 88,
+    "discount": 13.35,
+    "sku": "KIT-BRD-SLO-072"
+  },
+  "73": {
+    "title": "Spice Rack",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 19.99,
+    "rating": 4.87,
+    "stock": 79,
+    "discount": 12.09,
+    "sku": "KIT-BRD-SPI-073"
+  },
+  "74": {
+    "title": "Spoon",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 4.99,
+    "rating": 4.03,
+    "stock": 59,
+    "discount": 1.53,
+    "sku": "KIT-BRD-SPO-074"
+  },
+  "75": {
+    "title": "Tray",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 16.99,
+    "rating": 4.62,
+    "stock": 71,
+    "discount": 7.48,
+    "sku": "KIT-BRD-TRA-075"
+  },
+  "76": {
+    "title": "Wooden Rolling Pin",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 11.99,
+    "rating": 2.92,
+    "stock": 80,
+    "discount": 9.75,
+    "sku": "KIT-BRD-WOO-076"
+  },
+  "77": {
+    "title": "Yellow Peeler",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "price": 5.99,
+    "rating": 4.24,
+    "stock": 35,
+    "discount": 12.48,
+    "sku": "KIT-BRD-YEL-077"
+  },
+  "78": {
+    "title": "Apple MacBook Pro 14 Inch Space Grey",
+    "category": "laptops",
+    "brand": "Apple",
+    "price": 1999.99,
+    "rating": 3.65,
+    "stock": 24,
+    "discount": 4.69,
+    "sku": "LAP-APP-APP-078"
+  },
+  "79": {
+    "title": "Asus Zenbook Pro Dual Screen Laptop",
+    "category": "laptops",
+    "brand": "Asus",
+    "price": 1799.99,
+    "rating": 3.95,
+    "stock": 45,
+    "discount": 11.14,
+    "sku": "LAP-ASU-ASU-079"
+  },
+  "80": {
+    "title": "Huawei Matebook X Pro",
+    "category": "laptops",
+    "brand": "Huawei",
+    "price": 1399.99,
+    "rating": 4.98,
+    "stock": 75,
+    "discount": 9.38,
+    "sku": "LAP-HUA-HUA-080"
+  },
+  "81": {
+    "title": "Lenovo Yoga 920",
+    "category": "laptops",
+    "brand": "Lenovo",
+    "price": 1099.99,
+    "rating": 2.86,
+    "stock": 40,
+    "discount": 6.55,
+    "sku": "LAP-LEN-LEN-081"
+  },
+  "82": {
+    "title": "New DELL XPS 13 9300 Laptop",
+    "category": "laptops",
+    "brand": "Dell",
+    "price": 1499.99,
+    "rating": 2.67,
+    "stock": 74,
+    "discount": 11.89,
+    "sku": "LAP-DEL-DEL-082"
+  },
+  "83": {
+    "title": "Blue & Black Check Shirt",
+    "category": "mens-shirts",
+    "brand": "Fashion Trends",
+    "price": 29.99,
+    "rating": 3.64,
+    "stock": 38,
+    "discount": 15.35,
+    "sku": "MEN-FAS-BLU-083"
+  },
+  "84": {
+    "title": "Gigabyte Aorus Men Tshirt",
+    "category": "mens-shirts",
+    "brand": "Gigabyte",
+    "price": 24.99,
+    "rating": 3.18,
+    "stock": 90,
+    "discount": 0.94,
+    "sku": "MEN-GIG-GIG-084"
+  },
+  "85": {
+    "title": "Man Plaid Shirt",
+    "category": "mens-shirts",
+    "brand": "Classic Wear",
+    "price": 34.99,
+    "rating": 3.46,
+    "stock": 82,
+    "discount": 19.5,
+    "sku": "MEN-CLA-PLA-085"
+  },
+  "86": {
+    "title": "Man Short Sleeve Shirt",
+    "category": "mens-shirts",
+    "brand": "Casual Comfort",
+    "price": 19.99,
+    "rating": 2.9,
+    "stock": 2,
+    "discount": 6.83,
+    "sku": "MEN-CAS-SHO-086"
+  },
+  "87": {
+    "title": "Men Check Shirt",
+    "category": "mens-shirts",
+    "brand": "Urban Chic",
+    "price": 27.99,
+    "rating": 2.72,
+    "stock": 95,
+    "discount": 11.38,
+    "sku": "MEN-URB-CHE-087"
+  },
+  "88": {
+    "title": "Nike Air Jordan 1 Red And Black",
+    "category": "mens-shoes",
+    "brand": "Nike",
+    "price": 149.99,
+    "rating": 4.77,
+    "stock": 7,
+    "discount": 4.12,
+    "sku": "MEN-NIK-NIK-088"
+  },
+  "89": {
+    "title": "Nike Baseball Cleats",
+    "category": "mens-shoes",
+    "brand": "Nike",
+    "price": 79.99,
+    "rating": 3.88,
+    "stock": 12,
+    "discount": 18.04,
+    "sku": "MEN-NIK-NIK-089"
+  },
+  "90": {
+    "title": "Puma Future Rider Trainers",
+    "category": "mens-shoes",
+    "brand": "Puma",
+    "price": 89.99,
+    "rating": 4.9,
+    "stock": 90,
+    "discount": 4.2,
+    "sku": "MEN-PUM-PUM-090"
+  },
+  "91": {
+    "title": "Sports Sneakers Off White & Red",
+    "category": "mens-shoes",
+    "brand": "Off White",
+    "price": 119.99,
+    "rating": 4.77,
+    "stock": 17,
+    "discount": 4.97,
+    "sku": "MEN-OFF-SPO-091"
+  },
+  "92": {
+    "title": "Sports Sneakers Off White Red",
+    "category": "mens-shoes",
+    "brand": "Off White",
+    "price": 109.99,
+    "rating": 4.69,
+    "stock": 62,
+    "discount": 0.04,
+    "sku": "MEN-OFF-SPO-092"
+  },
+  "93": {
+    "title": "Brown Leather Belt Watch",
+    "category": "mens-watches",
+    "brand": "Fashion Timepieces",
+    "price": 89.99,
+    "rating": 4.19,
+    "stock": 32,
+    "discount": 5.99,
+    "sku": "MEN-FAS-BRO-093"
+  },
+  "94": {
+    "title": "Longines Master Collection",
+    "category": "mens-watches",
+    "brand": "Longines",
+    "price": 1499.99,
+    "rating": 3.87,
+    "stock": 100,
+    "discount": 17.24,
+    "sku": "MEN-LON-LON-094"
+  },
+  "95": {
+    "title": "Rolex Cellini Date Black Dial",
+    "category": "mens-watches",
+    "brand": "Rolex",
+    "price": 8999.99,
+    "rating": 4.97,
+    "stock": 40,
+    "discount": 8.88,
+    "sku": "MEN-ROL-ROL-095"
+  },
+  "96": {
+    "title": "Rolex Cellini Moonphase",
+    "category": "mens-watches",
+    "brand": "Rolex",
+    "price": 12999.99,
+    "rating": 2.58,
+    "stock": 36,
+    "discount": 17.52,
+    "sku": "MEN-ROL-ROL-096"
+  },
+  "97": {
+    "title": "Rolex Datejust",
+    "category": "mens-watches",
+    "brand": "Rolex",
+    "price": 10999.99,
+    "rating": 3.66,
+    "stock": 86,
+    "discount": 3.73,
+    "sku": "MEN-ROL-ROL-097"
+  },
+  "98": {
+    "title": "Rolex Submariner Watch",
+    "category": "mens-watches",
+    "brand": "Rolex",
+    "price": 13999.99,
+    "rating": 2.69,
+    "stock": 55,
+    "discount": 5.05,
+    "sku": "MEN-ROL-ROL-098"
+  },
+  "99": {
+    "title": "Amazon Echo Plus",
+    "category": "mobile-accessories",
+    "brand": "Amazon",
+    "price": 99.99,
+    "rating": 4.99,
+    "stock": 61,
+    "discount": 12.07,
+    "sku": "MOB-AMA-AMA-099"
+  },
+  "100": {
+    "title": "Apple Airpods",
+    "category": "mobile-accessories",
+    "brand": "Apple",
+    "price": 129.99,
+    "rating": 4.15,
+    "stock": 67,
+    "discount": 15.54,
+    "sku": "MOB-APP-APP-100"
+  }
+}

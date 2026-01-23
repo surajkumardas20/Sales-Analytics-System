@@ -1,0 +1,4 @@
+RowNumber|TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region
+40|X2|2024-12-07|P110|Laptop Charger|5|1590|C023|West
+48|X611|2024-12-06|P105|Webcam|10|3087|C002|North
+51|X395|2024-12-12|P107|USB Cable|6|323|C020|North

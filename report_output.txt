@@ -1,0 +1,39 @@
+Traceback (most recent call last):
+  File "c:\Users\ADMIN\Downloads\enrich_sales_data_raw.py", line 103, in validate_sales_transactions
+    print(f"\u26a0 Invalid quantity for {tid}: {qty}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u26a0' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\ADMIN\Downloads\generate_sales_report.py", line 478, in <module>
+    valid_transactions, _ = validate_sales_transactions(raw_transactions)
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Users\ADMIN\Downloads\enrich_sales_data_raw.py", line 123, in validate_sales_transactions
+    print(f"\u26a0 Validation error: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u26a0' in position 0: character maps to <undefined>
+
+========================================================================================================================
+GENERATE SALES ANALYTICS REPORT
+========================================================================================================================
+
+Step 1: Loading sales data...
+------------------------------------------------------------------------------------------------------------------------
+
+Header columns: ['TransactionID', 'Date', 'ProductID', 'ProductName', 'Quantity', 'UnitPrice', 'CustomerID', 'Region']
+
+[OK] Parsed 80 transactions from raw file
+
+Step 2: Validating transactions...
+------------------------------------------------------------------------------------------------------------------------
+
+
+Unexpected error: 'charmap' codec can't encode character '\u26a0' in position 0: character maps to <undefined>
